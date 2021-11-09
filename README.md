@@ -1,0 +1,2 @@
+# Employee-Churn-Classification
+A company has gotten a data set from their sister company about elements of people staying or leaving. The dataset has columns like Education, Joining Year, City, Payment Tier, Age, Gender, Ever Benched, Experience in current domain, Leave or not. From these variables we will build models that will help us predicting the employees who will stay or leave the organization.
